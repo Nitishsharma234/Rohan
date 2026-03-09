@@ -1,0 +1,7 @@
+flask>=2.3
+requests
+scikit-learn
+pandas
+pillow
+pytesseract
+ddgs

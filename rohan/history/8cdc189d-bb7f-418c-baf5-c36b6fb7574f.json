@@ -1,0 +1,37 @@
+{
+  "id": "8cdc189d-bb7f-418c-baf5-c36b6fb7574f",
+  "title": "Image: Cefphen",
+  "created": "2026-03-09T15:55:16.476074",
+  "messages": [
+    {
+      "role": "user",
+      "content": "[Image uploaded for analysis]",
+      "ts": "2026-03-09T15:55:16.476074"
+    },
+    {
+      "role": "assistant",
+      "content": "📦 **Detected: Cefphen** (71% confidence)\n\n- **Category:** Antifungal\n- **Strength:** 991 mg\n- **Form:** Cream\n- **Use:** Fungus\n- **Class:** Prescription\n\n\n\n⚠️ Consult a healthcare professional before taking any medication.",
+      "ts": "2026-03-09T15:55:16.476074"
+    },
+    {
+      "role": "user",
+      "content": "[Image uploaded for analysis]",
+      "ts": "2026-03-09T15:55:37.249105"
+    },
+    {
+      "role": "assistant",
+      "content": "📦 **Detected: Azithromycin** (100% confidence)\n\n- **Category:** Antibiotic\n- **Strength:** 500 mg\n- **Form:** Tablet\n- **Use:** Bacterial infections\n- **Class:** Prescription\n\n\n\n⚠️ Consult a healthcare professional before taking any medication.",
+      "ts": "2026-03-09T15:55:37.249105"
+    },
+    {
+      "role": "user",
+      "content": "can you tell me more about this medicine?",
+      "ts": "2026-03-09T15:55:53.700891"
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, let’s delve into a detailed overview of Azithromycin.\n\n**What is it?**\n\nAzithromycin is a powerful antibiotic belonging to a class of drugs called macrolides. It’s primarily used to treat a wide range of bacterial infections. It’s a frequently prescribed medication due to its generally convenient dosing schedule – often just a few days – and its effectiveness against many common bacteria.\n\n**Uses**\n\nAzithromycin is prescribed for a variety of bacterial infections, including:\n\n*   **Respiratory Tract Infections:** This is one of the most common uses. It’s frequently used to treat conditions like:\n    *   Acute bacterial sinusitis (inflammation of the sinuses)\n    *   Acute bacterial bronchitis\n    *   Community-acquired pneumonia\n*   **Skin and Soft Tissue Infections:** It can be used for infections like impetigo (a bacterial skin infection) and cellulitis (skin infection).\n*   **Sexually Transmitted Infections (STIs):** Azithromycin is sometimes used to treat chlamydia and gonorrhea, although resistance is a growing concern.\n*   **Other Infections:** It can also be used to treat infections like Helicobacter pylori (a bacteria that causes stomach ulcers) and certain parasitic infections.\n\n**How it Works**\n\nAzithromycin works by inhibiting the growth and reproduction of bacteria. Specifically, it binds to the 50S ribosomal subunit of bacteria, which is a crucial component involved in protein synthesis. By interfering with this process, azithromycin prevents the bacteria from making the proteins they need to survive and multiply. Because it's a macrolide, it has a broad spectrum of activity, meaning it can target a variety of bacterial species.\n\n**Dosage**\n\nThe dosage of azithromycin varies depending on the infection being treated and the severity of the illness. Here's a general guideline, but *always* follow your doctor's specific instructions:\n\n*   **Adults:** Typical dosages range from 500 mg to 1000 mg per day, taken in one or two divided doses. The duration of treatment varies from a few days to several weeks, depending on the infection.\n*   **Children:** Doses are typically lower and adjusted based on the child’s weight. A common starting dose for children is 10-20 mg/kg/day, divided into two or three doses.\n*   **Important Note:** It’s crucial to complete the entire course of azithromycin, even if you start feeling better, to ensure that all the bacteria are eliminated and to prevent the development of antibiotic resistance.\n\n**Side Effects**\n\nLike all medications, azithromycin can cause side effects. Common side effects include:\n\n*   **Gastrointestinal Issues:** Nausea, vomiting, diarrhea, and abdominal pain are the most frequently reported side effects. Taking azithromycin with food can often help reduce these symptoms.\n*   **Headache:** Mild headaches are relatively common.\n*   **Dizziness:** Some individuals may experience dizziness.\n*   **Rare Side Effects:** Less common side effects can include allergic reactions (rash, itching, swelling), QT prolongation (a heart rhythm abnormality), and liver problems.\n\n**Precautions**\n\n*   **Allergies:** Do not take azithromycin if you are allergic to macrolide antibiotics (like erythromycin).\n*   **Heart Conditions:** Azithromycin can affect the heart rhythm, so it should be used with caution in individuals with heart conditions.\n*   **Drug Interactions:** Azithromycin can interact with other medications, including certain antidepressants, antiarrhythmics, and warfarin. Inform your doctor about all medications you are taking.\n*   **Pregnancy and Breastfeeding:** Consult your doctor before taking azithromycin if you are pregnant or breastfeeding.\n\nAlways consult a healthcare professional before starting any medication",
+      "ts": "2026-03-09T15:56:25.823338"
+    }
+  ]
+}
